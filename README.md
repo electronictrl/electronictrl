@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @electronictrl
-- 👀 I’m interested in electronic engineer and system, IA...
-- 🌱 I’m currently learning languages...
-- 💞️ I’m looking to collaborate on education projects...
-- 📫 Write me if you want to know a little more about me. 
+Analizo  redes  organizacionales y trabajo para mantener los principios básicos de seguridad, entre ellos la  ética
+Me  motiva la seguridad de la información y disfruto al contribuir a  soluciones que puedan impactar de forma positiva en una organización y en las personas a las que esta sirve.
 
-<!---
-electronictrl/electronictrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
